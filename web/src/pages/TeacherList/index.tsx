@@ -15,11 +15,6 @@ function TeacherList(){
                     </div>
 
                     <div className="input-block">
-                        <label htmlFor="subject">Matérias</label>
-                        <input type="text" id="subject"/>
-                    </div>
-
-                    <div className="input-block">
                         <label htmlFor="week_day">Dia da semana</label>
                         <input type="text" id="week_day"/>
                     </div>
