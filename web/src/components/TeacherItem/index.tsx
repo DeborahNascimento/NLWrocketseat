@@ -8,7 +8,7 @@ import './styles.css';
 function TeacherItem(){
     return(<article className="teacher-item">
     <header>
-        <img src="https://avatars2.githubusercontent.com/u/9783209?s=460&u=860883c4d009b4832dda95da7c5a08a5aabfd4db&v=4" />
+        <img src="https://avatars2.githubusercontent.com/u/9783209?s=460&u=860883c4d009b4832dda95da7c5a08a5aabfd4db&v=4" alt="foto do professor"/>
         <div>
             <strong>Deborah Medeiros</strong>
             <span>Redes de computadores</span>
